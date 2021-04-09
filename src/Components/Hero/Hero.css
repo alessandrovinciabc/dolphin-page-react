@@ -1,0 +1,11 @@
+.Hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: calc(100% - 4.2rem);
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
