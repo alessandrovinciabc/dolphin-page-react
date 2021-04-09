@@ -25,7 +25,11 @@ ReactDOM.render(
     <Header logo="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/google/274/dolphin_1f42c.png">
       <Navbar links={navigationLinks} />
     </Header>
-    <Hero img={dolphinHero}></Hero>
+    <Hero img={dolphinHero}>
+      <h1 className="Hero__h1">Introducing Dolphin</h1>
+      <h2 className="Hero__h2">Bring it with you, everywhere you go.</h2>
+      <button className="Hero__button">Learn more</button>
+    </Hero>
   </React.Fragment>,
   document.getElementById('root')
 );
