@@ -1,5 +1,12 @@
 .Navbar__link {
   text-decoration: none;
   color: grey;
-  margin: 0 5px;
+
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-right: 2.4rem;
+}
+
+.Navbar__link:hover {
+  color: rgb(51, 182, 226);
 }
