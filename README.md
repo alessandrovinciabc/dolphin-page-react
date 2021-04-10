@@ -1,6 +1,6 @@
 # Dolphin Page
 
-This is a practice project made with React. It's just an homepage with a header, a hero and a benefits's section and a footer.
+This is a practice project made with React. It's just an homepage with a header, a hero and a benefits's sections and a footer.
 
 [Live preview](https://alessandrovinciabc.github.io/dolphin-page-react)
 
