@@ -4,7 +4,7 @@
   align-items: center;
   flex-direction: column;
 
-  height: calc(100% - 4.2rem);
+  height: 100%;
 
   background-position: center;
   background-repeat: no-repeat;
@@ -39,4 +39,10 @@
   width: 8rem;
 
   font-size: 1rem;
+
+  cursor: pointer;
+}
+
+.Hero__button:hover {
+  filter: grayscale(40%);
 }
