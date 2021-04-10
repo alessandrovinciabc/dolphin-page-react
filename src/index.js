@@ -46,6 +46,7 @@ ReactDOM.render(
     </Hero>
     <h1 className="Benefits__header">Everyone needs a dolphin</h1>
     <Benefits cards={benefits} />
+    <div className="Footer">Dolphin 2021</div>
   </React.Fragment>,
   document.getElementById('root')
 );
